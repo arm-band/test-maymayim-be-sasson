@@ -1,0 +1,2 @@
+/src/scan/**/*
+!/src/scan/.gitkeep
